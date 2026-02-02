@@ -1,0 +1,25 @@
+Frage 1: Hardware / Fehlersuche
+Ein PC startet, aber es erscheint kein Bild auf dem Monitor. Nennen Sie drei mögliche Ursachen.
+
+
+
+Antwort:
+Monitor ist nicht eingeschaltet oder falsch konfiguriert
+Kabelverbindung (HDMI/DP/VGA) ist locker oder defekt
+Grafikkarte sitzt nicht richtig oder ist defekt
+
+
+
+Frage 2: Betriebssysteme / Benutzerverwaltung
+Was ist der Unterschied zwischen einem lokalen Benutzerkonto und einem Domänenbenutzerkonto?
+Antwort:
+Lokales Benutzerkonto: Gilt nur für einen einzelnen Rechner
+Domänenbenutzerkonto: Wird zentral verwaltet (z. B. über Active Directory) und ermöglicht Anmeldung an mehreren Rechnern im Netzwerk
+
+
+
+Frage 3: IT-Sicherheit
+Nennen Sie zwei Maßnahmen zum Schutz eines Arbeitsplatzrechners vor Malware.
+Antwort:
+Installation und regelmäßige Aktualisierung eines Virenschutzprogramms
+Regelmäßige Updates des Betriebssystems und der Anwendungen
