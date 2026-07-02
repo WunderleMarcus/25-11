@@ -1,4 +1,4 @@
-# Optionales Wochenprojekt: Fullstack mit React + FastAPI (Einzelarbeit)
+# Optionales Wochenprojekt: Fullstack mit React + FastAPI (Einzelarbeit oder in Gruppen aber jeder soll eine explizit nachvollziehbare Abgabe machen)
 
 ## Wochenabschluss: Vom Frontend zum Fullstack
 
