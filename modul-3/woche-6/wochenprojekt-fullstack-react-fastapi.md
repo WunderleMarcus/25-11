@@ -4,16 +4,15 @@
 
 ### Organisatorische Rahmenbedingungen
 
-**Dieses Wochenprojekt ist komplett freiwillig!** Da wir aktuell in der Prüfungsphase sind, ist das hier ein optionales Mini-Projekt für alle, die Lust haben, sich mit dem Thema Fullstack auseinanderzusetzen. Kein Druck, kein Stress.
+**Dieses Mini-Projekt für alle, die Lust haben, sich mit dem Thema Fullstack auseinanderzusetzen. Kein Druck, kein Stress.**
 
 Dieses Projekt verbindet alles, was ihr bisher gelernt habt: React-Frontend, Python-Backend und AWS-Deployment. Es ist ein guter Einstieg in die Fullstack-Entwicklung.
 
-**Denk daran:** Das Wochenprojekt ist komplett freiwillig. Gerade in der Prüfungsphase hat die Prüfungsvorbereitung für den IHK-ISS Vorrang. Wenn du es machst, toll! Wenn nicht, auch kein Problem, wir werden am Freitag noch einmal alles besprechen was in dieser übung passiert.
 
 Bei Fragen: Frag nach! Das ist keine Schwäche, sondern zeigt, dass du verstehen willst.
 
 
-Falls du abgeben möchtest oder Feedback wünschst, reiche deinen Projektordner ein:
+Bei Abgabe reiche deinen Projektordner ein:
 
 ```
 vorname_nachname_woche6/
